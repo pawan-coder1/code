@@ -6,6 +6,6 @@ int main(){
     int a;
     cin >> a;
     cout << a << endl;
-    cout << "Git setup is done " << endl;
+    cout << "Git setup is done dthdskfhdhdf " << endl;
     return 0;
 }
